@@ -1,0 +1,7 @@
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\bin\Release\Commandline_Texteditor.exe.config
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\bin\Release\Commandline_Texteditor.exe
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\bin\Release\Commandline_Texteditor.pdb
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\obj\Release\Commandline_Texteditor.exe
+C:\Users\Gamer\Dropbox\projects\Dev\2019\c#\TextEditor\src\ConsoleApp1\obj\Release\Commandline_Texteditor.pdb
